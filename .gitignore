@@ -1,5 +1,6 @@
 .streamlit/secrets.toml
-
+AZ_2023_2024R.csv
+excel_load.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
